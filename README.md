@@ -5,4 +5,5 @@ Crypto currency dashboard using [Redux Toolkit](https://redux-toolkit.js.org/) i
 ![homepage](./homepage.png)  
 ![news](./news.png)  
 ![graph](./graph.png)  
+![exchanges](./exchanges.png)  
 
