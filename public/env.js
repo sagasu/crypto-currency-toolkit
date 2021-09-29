@@ -8,8 +8,6 @@ window.env = {
   "CommonProgramW6432": "C:\\Program Files\\Common Files",
   "COMPUTERNAME": "DESKTOP-ED2R5JO",
   "ComSpec": "C:\\WINDOWS\\system32\\cmd.exe",
-  "CRYPTO_API_TOKEN": "2704ef616amsh27e107fae02838bp14ac75jsn06fe56028fbd",
-  "CRYPTO_NEWS_API_TOKEN": "2704ef616amsh27e107fae02838bp14ac75jsn06fe56028fbd",
   "CUDA_PATH": "D:\\worek\\CUDAInstalledComponentsHere\\Dev",
   "CUDA_PATH_V11_0": "D:\\worek\\CUDAInstalledComponentsHere\\Dev",
   "dp0": "D:\\worek\\repos\\crypto-currency-toolkit\\node_modules\\.bin\\",

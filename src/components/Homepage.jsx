@@ -6,15 +6,10 @@ import { useGetCryptosQuery } from '../services/cryptoApi';
 import { Cryptocurrencies, News } from '../components';
 import Loader from './Loader';
 
-import env from "react-dotenv";
-
-
 
 const {Title} = Typography;
 
 const Homepage = () => {
-    
-    const token = env.CRYPTO_API_TOKEN;
     const {data, isFetching} = useGetCryptosQuery(10);
     const globalStats = data?.data?.stats;
 
