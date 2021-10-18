@@ -7,3 +7,9 @@ Crypto currency dashboard using [Redux Toolkit](https://redux-toolkit.js.org/) i
 ![graph](./graph.png)  
 ![exchanges](./exchanges.png)  
 
+# Config
+make sure there is `.env` file in this same folder as package.json and following properties are set in it.  
+  
+CRYPTO_API_TOKEN=  
+CRYPTO_NEWS_API_TOKEN=  
+  
